@@ -10,7 +10,7 @@ Xiao Liu<sup>1 </sup>, Xiangyu Liao<sup>1 </sup>, Xiuya Shi<sup>1 </sup>, [Linbo
 <hr />
 
 ## :writing_hand: Changelog and ToDos
-- [x] (2024/10/20) We migrate the original [EIMN project](https://github.com/liux520/EIMN) to the BasicSR framework and release more experimental weights.
+- [x] (2024/10/20) We migrate the original [EIMN project](https://github.com/liux520/EIMN) to the BasicSR framework and release more experimental [weights](https://github.com/liux520/EIMN_BasicSR/releases).
 <hr />
 
 ## :bulb: Abstract
